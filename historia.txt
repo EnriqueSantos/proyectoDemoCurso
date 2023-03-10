@@ -2,3 +2,4 @@ Hola, estoy en un curso de Git desde Platzi.
 
 Esto es la parte icicial.
 
+Esto fue el primer cambio para segundo commit.
